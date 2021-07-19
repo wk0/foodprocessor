@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-foodprocessor-dev-184144-authRole",
+      "UnauthRoleArn": "arn:aws:iam::143901858168:role/amplify-foodprocessor-dev-184144-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::143901858168:role/amplify-foodprocessor-dev-184144-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-foodprocessor-dev-184144-deployment",
+      "UnauthRoleName": "amplify-foodprocessor-dev-184144-unauthRole",
+      "StackName": "amplify-foodprocessor-dev-184144",
+      "StackId": "arn:aws:cloudformation:us-east-1:143901858168:stack/amplify-foodprocessor-dev-184144/5546c5a0-e819-11eb-87f4-12bd192597a3",
+      "AmplifyAppId": "d2bghmzi0a61mq"
+    },
+    "categories": {
+      "auth": {
+        "foodprocessor94c1713f": {}
+      },
+      "function": {
+        "S3Triggerca7515fe": {
+          "deploymentBucketName": "amplify-foodprocessor-dev-184144-deployment",
+          "s3Key": "amplify-builds/S3Triggerca7515fe-4a65506a704834426569-build.zip"
+        }
+      }
+    }
+  }
+}
